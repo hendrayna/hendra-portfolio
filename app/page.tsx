@@ -129,11 +129,11 @@ export default function Home() {
             </a>
             <a
               className="button button-secondary"
-              href="/i-kadek-hendrayana-portfolio.pdf"
+              href="/i-kadek-hendrayana-cv.pdf"
               target="_blank"
               rel="noreferrer"
             >
-              Portfolio PDF <span aria-hidden="true">↗</span>
+              Download CV <span aria-hidden="true">↗</span>
             </a>
           </div>
           <div className="hero-proof" aria-label="Professional highlights">
