@@ -32,9 +32,9 @@ export const metadata: Metadata = {
     type: "website",
   },
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
-  },
+  icon: "/favicon.png",
+  shortcut: "/favicon.png",
+},
 };
 
 export default function RootLayout({
